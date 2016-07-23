@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	getgygjson();
-	setInterval('getgygjson()',8000);
+	setInterval('getgygjson()',6000);
 });
 var map;
 function initMap() {
